@@ -19,7 +19,6 @@ vim.o.hlsearch = false
 vim.o.number = true
 vim.o.relativenumber = true
 vim.o.termguicolors = true
-vim.o.colorcolumn = '100'
 vim.o.signcolumn = "yes"
 vim.o.cmdheight = 1
 vim.o.scrolloff = 10
